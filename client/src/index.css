@@ -920,7 +920,7 @@ a:hover {
 
 /* BACKGROUND UTILS */
 .bg-primary {
-  background-color: #2d3e50 !important;
+  background-color: #12896f !important;
 }
 
 .bg-info {
@@ -1084,7 +1084,7 @@ a:hover {
 }
 
 .card {
-  border: 1px solid #1a1a1a;
+  border: 1px solid #c5c4c4;
   margin-bottom: 1rem;
 }
 
@@ -1104,7 +1104,7 @@ a:hover {
 }
 
 .card.card-rounded {
-  border-radius: 0.3rem;
+  border-radius: 1.3rem;
 }
 
 .card.card-rounded .card-header {
