@@ -1,14 +1,15 @@
-# Travelers-exchange
-## Travelers exchange is a website created for people who like to travel. Allowing them to share their experience but also to learn from other travelers experience and get useful information before taking a trip.
+# Travelers Exchange
+Travelers exchange is a website created for people who like to travel. Allowing them to share their experience but also to learn from other travelers experience and get useful information before taking a trip.
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-blue?style=flat-square&logo=github)](https://github.com/vixtoriandrade/Travelers-exchange)
 
 <a name="logo"></a>
 
-## [Table of Contents]
+## Table of Contents
 
 - [Description](#logo)
 - [Badges](#badge)
+- [Link to Deployed Application](#deployedapp)
 - [Installation Instructions](#install)
 - [Usage](#use)
 - [License](#lic)
@@ -30,6 +31,10 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 <a name="badge"></a>
 
+## Link to Deployed Application
+
+<a name="deployedapp"></a>
+
 ## Installation Instructions
 
 <a name="install"></a>
@@ -37,15 +42,13 @@
 
 
 
-## usage
+## Usage
 
 <a name="use"></a>
 
 
 
 ## License
-
-### MIT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -56,8 +59,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-### Would like to thank Mijan Ramharrack, Karen Andrade, Felipe Ursini, Charlie Kendall, and Pablo Roman for their work on this project.  Would also like to thank instructor Gurmeet Singh, TA Gerard Mennella, and TA John Hysong for their assistance and patience on this project
+<a name="know"></a>.
 
-
-
-<a name="know"></a>
+Would like to thank Mijan Ramharrack, Karen Andrade, Felipe Ursini, Charlie Kendall, and Pablo Roman for their work on this project.  Would also like to thank instructor Gurmeet Singh, TA Gerard Mennella, and TA John Hysong for their assistance and patience on this project
