@@ -37,11 +37,6 @@
 
 
 
-## usage
-
-<a name="use"></a>
-
-
 
 ## License
 
