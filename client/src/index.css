@@ -5,7 +5,7 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-html {
+ html {
   line-height: 1.15;
   /* 1 */
   -webkit-text-size-adjust: 100%;
@@ -369,9 +369,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'JetBrains Mono', monospace;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif monospace;
   margin: 0 0 0.5rem;
   line-height: 1.25;
+  text-align: center;
 }
 
 h1 {
@@ -899,7 +900,7 @@ a:hover {
 }
 
 .text-light {
-  color: #d9e9e8 !important;
+  color: #7BD2E8 !important;
 }
 
 .text-dark {
@@ -920,7 +921,7 @@ a:hover {
 
 /* BACKGROUND UTILS */
 .bg-primary {
-  background-color: #12896f !important;
+  background-color: #0E343E !important;
 }
 
 .bg-info {
@@ -932,7 +933,8 @@ a:hover {
 }
 
 .bg-light {
-  background-color: #d9e9e8 !important;
+  background-color: #EDFBFF !important;
+  border: 2px outset;
 }
 
 .bg-dark {
@@ -1030,26 +1032,26 @@ a:hover {
 }
 
 .btn.btn-info {
-  background-color: #1bbc9b;
+  background-color: #2895B0;
   color: #ffffff;
 }
 
 .btn.btn-info:hover {
-  background-color: #31e1bd;
+  background-color: #7BD2E8;
 }
 
 .btn.btn-light {
-  background-color: #d9e9e8;
+  background-color: #C0E0E8;
   color: #1a1a1a;
 }
 
 .btn.btn-light:hover {
-  background-color: #84b8b4;
+  background-color: #EDFBFF;
 }
 
 .btn.btn-dark {
   background-color: #1a1a1a;
-  color: #d9e9e8;
+  color: #7BD2E8;
 }
 
 .btn.btn-dark:hover {
